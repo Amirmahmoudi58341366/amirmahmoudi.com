@@ -1,0 +1,37 @@
+* {margin:0px auto 24px 0px;
+padding:0px;
+}
+body {background:url('../images/bg.gif') ;font:13px b yekan;line-height:20px;margin-top:0px;font-style:normal;}
+a {text-decoration: none; color:#A02422;}
+a:hover {color:#6a321f;}
+a img {border:0px;}
+
+#headercol {width:100%;height:233px; background: url('../images/bg_main_3.gif') no-repeat center;margin-top:0px;}
+
+#header {width:1000px;height:114px; background: url('../images/bg_header.gif');margin-top:0px;}
+#logo {width:210px;height:100px;font:50px time new roman; float:left; background:url('../images/logo.png'); margin-left:20px;}
+#en {float: right; margin: 15px 10px 0px 0px;background:url('../images/en.png');width:18px;height:14px;}
+#fa {margin: 15px 15px 0px 0px; float: right; background:url('../images/fa.png');width:18px;height:14px;}
+
+
+#menutop {width:150px;height:20px;font:8px tahoma; float:right;color:White;margin-top:0px; background-color:#89939c;}
+#slide {width:1000px;height:330px;margin-top:0px; background-color:#fff;}
+#slidepic {width:995px;
+height:330px; background: url('../images/slide01.jpg') no-repeat center;margin-top:0px;float:left;
+}
+#rightslide {width:250px;height:330px; background:#6a321f;float:right;color:#fff;text-align:center;}
+
+
+#menucol {width:100%;text-align:right; height:50px;background:#262626 ;}
+#menu {width:1146px;
+height:42px;margin-top:0px;padding:0px;background-image:url('../images/menu1.png');
+}
+.active a {background:#17b8fe; color:#fff; }
+#navigate {width:100%;height:50px;margin-top:0px;padding:0px;}
+#navigate ul {list-style:none;}
+#navigate li a {padding:0px 15px  ; margin-left:1px; line-height:50px;color:#fff; background-image:url('../images/menu12.png');}
+#navigate li a:hover {background:#CD0000; color:#fff; }
+#content {}
+#page {width:960px;padding:20px;background:#fefefe;margin-top:1px;text-align:justify;direction:rtl; color:#eeee; margin-bottom:5px;}
+#footer {text-align:center;width:1000px; height:40px; margin-top:0px;color:#777;font:11px arial; background-color:#3c434b; padding-top:20px; color:#0f9bd6; }
+#underfooter { width:100%; height:70px; background-color:#6a321f; background-image:url('../images/1.jpg')}
